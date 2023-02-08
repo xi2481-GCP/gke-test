@@ -1,0 +1,15 @@
+slug: kubernetes-cluster-gke-santosh
+id: 194epzsnlxfb
+title: Google Kubernetes Engine (GKE)-santosh
+teaser: A template track that includes a GKE cluster.
+description: |-
+  This template includes a single-zone, three node GKE cluster and a workstation with the **kubectl** and **gcloud** commands preinstalled. Use it as a starting point for your own K8s enabled tracks.
+  **WARNING:** This track is big and expensive to run. Do not make it public or it may be compromised and used for mining cryptocurrency.
+icon: https://cdn.instruqt.com/assets/templates/kubernetes.png
+tags:
+- no-ci
+owner: instruqt-support
+developers:
+- santosh@instruqt.com
+checksum: "1657642239946950168"
+timelimit: 3600
